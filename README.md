@@ -6,6 +6,8 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DAndrei)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<figure><embed src="https://wakatime.com/share/@DAndrei/44b18c64-c656-41f1-a2fd-5968f9499865.svg"></embed></figure>
+
 <!--
 **DanielAndrei1/DanielAndrei1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
