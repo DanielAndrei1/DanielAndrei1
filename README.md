@@ -5,3 +5,4 @@ Using this plugging to track my time spent coding since April 2023 <a href="http
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@DAndrei/0e8bfe8b-3f82-48f5-8247-bcde199d315e.png" /></a>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DAndrei/83a35496-e088-4009-80df-3d0ccd39c373.png" /></a>
